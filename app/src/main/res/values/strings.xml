@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Portfolio Project</string>
+    <string name="action_settings">Settings</string>
+    <string name= "spotify_label">Spotify Streamer</string>
+    <string name= "super_duo_label">Super Duo</string>
+    <string name= "build_bigger_label">Build It Bigger</string>
+    <string name= "xyz_reader_label">XYZ Reader</string>
+    <string name= "capstone_label">Capstone: My Own App</string>
+    <!--<string name= ""></string>
+    <string name= ""></string>-->
+</resources>
